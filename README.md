@@ -13,8 +13,8 @@ HTML, CSS and JavaScript
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="">Drink Water</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/18-50JS/tree/main/Drink%20Water">Drink Water</a></td>
+      <td><a href="https://drink-water-swart.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>02</td>
