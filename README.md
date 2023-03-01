@@ -18,8 +18,8 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="">Movie App</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/18-50JS/tree/main/Movie%20App">Movie App</a></td>
+      <td><a href="https://movie-app-two-murex.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>03</td>
