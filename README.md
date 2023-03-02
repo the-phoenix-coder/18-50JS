@@ -23,7 +23,7 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="">Background Slider</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/18-50JS/tree/main/Background%20Slider">Background Slider</a></td>
       <td><a href="">Live</a></td>
     </tr>
   </tbody>
