@@ -24,7 +24,7 @@ HTML, CSS and JavaScript
     <tr>
       <td>03</td>
       <td><a href="https://github.com/the-phoenix-coder/18-50JS/tree/main/Background%20Slider">Background Slider</a></td>
-      <td><a href="https://background-slider-azure.vercel.app/">Live</a></td>
+      <td><a href="https://background-slider-rho.vercel.app/">Live</a></td>
     </tr>
   </tbody>
 </table>
